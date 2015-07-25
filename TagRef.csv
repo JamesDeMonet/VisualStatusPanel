@@ -1,0 +1,7 @@
+VariableName,Value,,,,,
+HeartbeatTag,[vsbb],,,,,
+TermTag,[tag],,,,,
+Stat1,hp,"{Name=Red, ARGB=(255, 255, 0, 0)}",10,"{Name=Yellow, ARGB=(255, 255, 255, 0)}",55,"{Name=Lime, ARGB=(255, 0, 255, 0)}"
+Stat2,mv,"{Name=ff0080ff, ARGB=(255, 0, 128, 255)}",100,,,
+Stat3,st,"{Name=Aqua, ARGB=(255, 0, 255, 255)}",100,,,
+Stat4,mn,"{Name=ff8000ff, ARGB=(255, 128, 0, 255)}",100,,,
